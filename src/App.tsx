@@ -54,7 +54,7 @@ function App() {
                 </div>
                 <br />
 
-                <a href="https://t.me/dscss1" className="contact-button">
+                <a href="https://t.me/dscss2" className="contact-button">
                     Связаться со мной
                 </a>
             </div>
