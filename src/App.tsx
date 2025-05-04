@@ -29,7 +29,7 @@ function App() {
                 <div className="skills">
                     <h3>Мои навыки</h3>
                     <div className="skills-table">
-                        {['Java', 'CSS3', 'HTML5', 'JavaScript', 'MySQL', 'PHP', 'NodeJS', 'Git', 'Python', 'VueJs', 'TailwindCSS', 'React'].map(skill => (
+                        {['Java', 'CSS3', 'HTML5', 'JavaScript', 'MySQL', 'PHP', 'NodeJS', 'Git', 'Python', 'VueJs', 'TailwindCSS', 'React', 'Nuxt3'].map(skill => (
                             <div className="skill-item" key={skill}>
                                 <img
                                     src={`https://github.com/devicons/devicon/raw/refs/heads/master/icons/${skill.toLowerCase()}/${skill.toLowerCase()}-original.svg`}
