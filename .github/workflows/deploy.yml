@@ -4,9 +4,9 @@ name: CI/CD
 
 on:
   push:
-    branches: [ pages ]
+    branches: [ main ]
   pull_request:
-    branches: [ pages ]
+    branches: [ main ]
 
 jobs:
   build:
